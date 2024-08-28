@@ -16,6 +16,9 @@
     "moduleResolution": "node",
     "importHelpers": true,
     "paths": {
+      "components": [
+        "./dist/components"
+      ],
       "services": [
         "./dist/services"
       ]
